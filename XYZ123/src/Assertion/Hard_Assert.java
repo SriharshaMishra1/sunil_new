@@ -7,7 +7,6 @@ import junit.framework.Assert;
 public class Hard_Assert {
 	
 	@Test
-	
 		public void createcampaignTest()
 		{
 			System.out.println("step1");
