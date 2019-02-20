@@ -11,7 +11,7 @@ public class Amazon_p3 {
 
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver=new FirefoxDriver();
-		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.in/");;
 		//amazon Sign in:
 		//driver.findElement(By.xpath("//div[@id='nav-tools']/a[@id='nav-link-yourAccount']/span[text()='Hello. Sign in']")).click();
 		//amazon Sign in alt mtd
